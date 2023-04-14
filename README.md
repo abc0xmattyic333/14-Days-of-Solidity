@@ -1,6 +1,6 @@
 # 14-Days-Of-Solidity
 
-This repository contains the code for '14-Days-0f-Solidity' organized by [abc0xmattyic3333](https://twitter.com/abc0xmattyic3333)
+This repository contains the code for '14-Days-0f-Solidity' organized by [abc0xmattyic3333](https://github.com/abc0xmattyic3333)
 
 The core contents will provide you with an introduction to Ethereum (EVM), and the Solidity programming langauge.
 <br>
